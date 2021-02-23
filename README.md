@@ -1,6 +1,6 @@
 ### Examples for Zappar React Three Fiber
 
-Here is a list of repositories containing examples. For more information, check out the package page for Zappar for React Three  (@zappar/zappar-react-three-fiber).
+Here is a list of repositories containing examples. For more information, check out the package page for Zappar for React Three  [@zappar/zappar-react-three-fiber](https://www.npmjs.com/package/@zappar/zappar-react-three-fiber)
 
 
 | Example      | Repository |
