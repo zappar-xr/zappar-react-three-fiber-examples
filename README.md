@@ -1,6 +1,6 @@
 ### Examples for Zappar React Three Fiber
 
-Here is a list of repositories containing examples. For more information, check out the package page for Zappar for React Three  [@zappar/zappar-react-three-fiber](https://www.npmjs.com/package/@zappar/zappar-react-three-fiber)
+Here is a list of repositories containing examples. For more information, check out the package page for Zappar for React Three [@zappar/zappar-react-three-fiber](https://www.npmjs.com/package/@zappar/zappar-react-three-fiber)
 
 
 | Example      | Repository |
@@ -12,4 +12,5 @@ Here is a list of repositories containing examples. For more information, check 
 | image-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-image-tracking-cannon-physics/ |
 | image-tracking-gltf-animation | https://github.com/zappar-xr/react-three-example-image-tracking-gltf-animation/ |
 | image-tracking-physical-lighting | https://github.com/zappar-xr/react-three-example-image-tracking-physical-lighting/ |
+| instant-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-instant-tracking-cannon-physics/ |
 | instant-tracking-cube | https://github.com/zappar-xr/react-three-example-instant-tracking-cube/ |
