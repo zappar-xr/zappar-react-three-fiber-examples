@@ -3,14 +3,14 @@
 Here is a list of repositories containing examples. For more information, check out the package page for Zappar for React Three [@zappar/zappar-react-three-fiber](https://www.npmjs.com/package/@zappar/zappar-react-three-fiber)
 
 
-| Example      | Repository |
-| ----------- | ----------- |
-| face-tracking-face-mesh | https://github.com/zappar-xr/react-three-example-face-tracking-face-mesh/ |
-| face-tracking-helmet | https://github.com/zappar-xr/react-three-example-face-tracking-helmet/ |
-| flip-camera | https://github.com/zappar-xr/react-three-example-flip-camera/ |
-| image-tracking-business-card | https://github.com/zappar-xr/react-three-example-image-tracking-business-card/ |
-| image-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-image-tracking-cannon-physics/ |
-| image-tracking-gltf-animation | https://github.com/zappar-xr/react-three-example-image-tracking-gltf-animation/ |
-| image-tracking-physical-lighting | https://github.com/zappar-xr/react-three-example-image-tracking-physical-lighting/ |
-| instant-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-instant-tracking-cannon-physics/ |
-| instant-tracking-cube | https://github.com/zappar-xr/react-three-example-instant-tracking-cube/ |
+| Example      | Repository | Build |
+| ----------- | ----------- | ----------- |
+| face-tracking-face-mesh | https://github.com/zappar-xr/react-three-example-face-tracking-face-mesh/ | [![Build](https://github.com/zappar-xr/react-three-example-face-tracking-face-mesh/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-face-tracking-face-mesh/actions/workflows/build.yml) |
+| face-tracking-helmet | https://github.com/zappar-xr/react-three-example-face-tracking-helmet/ | [![Build](https://github.com/zappar-xr/react-three-example-face-tracking-helmet/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-face-tracking-helmet/actions/workflows/build.yml) |
+| flip-camera | https://github.com/zappar-xr/react-three-example-flip-camera/ | [![Build](https://github.com/zappar-xr/react-three-example-flip-camera/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-flip-camera/actions/workflows/build.yml) |
+| image-tracking-business-card | https://github.com/zappar-xr/react-three-example-image-tracking-business-card/ | [![Build](https://github.com/zappar-xr/react-three-example-image-tracking-business-card/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-image-tracking-business-card/actions/workflows/build.yml) |
+| image-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-image-tracking-cannon-physics/ | [![Build](https://github.com/zappar-xr/react-three-example-image-tracking-cannon-physics/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-image-tracking-cannon-physics/actions/workflows/build.yml) |
+| image-tracking-gltf-animation | https://github.com/zappar-xr/react-three-example-image-tracking-gltf-animation/ | [![Build](https://github.com/zappar-xr/react-three-example-image-tracking-gltf-animation/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-image-tracking-gltf-animation/actions/workflows/build.yml) |
+| image-tracking-physical-lighting | https://github.com/zappar-xr/react-three-example-image-tracking-physical-lighting/ | [![Build](https://github.com/zappar-xr/react-three-example-image-tracking-physical-lighting/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-image-tracking-physical-lighting/actions/workflows/build.yml) |
+| instant-tracking-cannon-physics | https://github.com/zappar-xr/react-three-example-instant-tracking-cannon-physics/ | [![Build](https://github.com/zappar-xr/react-three-example-instant-tracking-cannon-physics/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-instant-tracking-cannon-physics/actions/workflows/build.yml) |
+| instant-tracking-cube | https://github.com/zappar-xr/react-three-example-instant-tracking-cube/ | [![Build](https://github.com/zappar-xr/react-three-example-instant-tracking-cube/actions/workflows/build.yml/badge.svg)](https://github.com/zappar-xr/react-three-example-instant-tracking-cube/actions/workflows/build.yml) |
